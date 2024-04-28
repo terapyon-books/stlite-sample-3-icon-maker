@@ -1,0 +1,1 @@
+# stlite-sample-3-icon-maker
